@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**A modern, intelligent mentorship platform connecting students with industry experts**
+**A modern, mentorship platform connecting students with industry experts**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React 18](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
