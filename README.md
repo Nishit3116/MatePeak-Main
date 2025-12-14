@@ -1040,7 +1040,7 @@ MIT License - See LICENSE file for details
 
 <div align="center">
 
-**Made with ❤️ by the MatePeak Team**
+**Made with ❤️ by the MatePeak**
 
 [⬆ Back to Top](#matepeaker-ai-powered-mentorship-platform)
 
