@@ -77,7 +77,6 @@
 - **Flexible Durations**: 30/60/90-minute sessions with dynamic pricing
 - **Secure Checkout**: Stripe payment integration with multiple methods
 - **Booking Confirmation**: Instant confirmations with calendar export (ICS)
-- **Session History**: Track past and upcoming sessions
 
 #### Communication & Reviews
 - **Post-Session Reviews**: 1-5 star ratings with detailed feedback
