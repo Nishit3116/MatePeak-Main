@@ -89,7 +89,6 @@
 - **Payment History**: Transaction details, receipt downloads
 - **Booking Management**: Cancel/reschedule sessions
 - **Profile Management**: Update bio, profile picture, preferences
-- **Notifications**: Real-time booking updates via toast notifications
 
 ### For Mentors 👨‍🏫
 
