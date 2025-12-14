@@ -10,7 +10,6 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[Live Demo](https://lovable.dev/projects/a38ee718-2896-40dd-b995-43875d096ec9) • [API Documentation](./docs/API_DOCUMENTATION.md) • [Quick Start](#quick-start) • [Contributing](#contributing)
 
 </div>
 
